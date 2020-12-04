@@ -20,7 +20,7 @@ GRUPO:  Isabelly  Araújo  Temoteo, João  Pedro  Martins  Cruz,  Júlia  Dos  S
 
 ### MAIN.C DO PROGRAMA TAG_CLOTHES_STYLE:
 
----> 
+---> Anexado em add files para upload
 
 ### LINK PARA O VÍDEO DE APRESENTAÇÃO DO TRABALHO:
 
@@ -28,4 +28,4 @@ GRUPO:  Isabelly  Araújo  Temoteo, João  Pedro  Martins  Cruz,  Júlia  Dos  S
 
 ###  DOCUMENTO DE TEXTO, CONTENDO A LOCALIZAÇÃO, NO CÓDIGO FONTE, ONDE FORAM IMPLEMENTADOS OS CONTEÚDOS LISTADOS NO TÓPICO 3, ALÉM DE UM EXEMPLO DESTE CONTEÚDO:      
 
---->
+---> Anexado em adicionar arquivos para upload
