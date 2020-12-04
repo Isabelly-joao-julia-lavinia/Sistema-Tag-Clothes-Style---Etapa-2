@@ -18,7 +18,7 @@ GRUPO:  Isabelly  Araújo  Temoteo, João  Pedro  Martins  Cruz,  Júlia  Dos  S
 
 ## MAIN.C DO PROGRAMA TAG_CLOTHES_STYLE:
 
---->
+---> 
 
 ## LINK PARA O VÍDEO DE APRESENTAÇÃO DO TRABALHO:
 
