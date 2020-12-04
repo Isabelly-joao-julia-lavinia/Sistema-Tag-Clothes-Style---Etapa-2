@@ -16,11 +16,12 @@ GRUPO:  Isabelly  Araújo  Temoteo, João  Pedro  Martins  Cruz,  Júlia  Dos  S
 
 <STATUS DO  PROGRAMA - ETAPA 2 >
 
-
+Na etapa 2 do programa Tag_Clothes_Style, foi desenvolvido o código em linguagem C, onde foi implementado constantes, variáveis, operações aritméticas, operações lógicas, comandos de atribuição, comandos de entrada e saída, estrutura condicional simples e/ou estrutura condicional composta e/ou estrutura condicional de múltipla escolha, estrutura de repetição com teste no início e/ou estrutura de repetição com teste no fim e/ou estrutura de repetição com variável de controle, estruturas de dados homogêneas: vetores numéricos, vetores de caracteres e/ou matrizes. Na segunda etapa do programa, estamos trabalhando somente com camisas, mas futuramente pretendemos implementar no código outros tipos de produto, sapatos, acessórios, calças, etc. Nessa etapa focamos em utilizar o método de menus e switches, além de outros recursos, que pode ser percebido ao longo do código do programa, disponibilizado, logo abaixo, do arquivo Readme.md e no vídeo de apresentação do trabalho
+que pode ser percebido ao longo do código do programa, disponibilizado, logo abaixo, do arquivo Readme.md e no vídeo de apresentação do trabalho.
 
 ### MAIN.C DO PROGRAMA TAG_CLOTHES_STYLE:
 
----> Anexado em add files para upload
+---> Anexado abaixo do arquivo Readme.md
 
 ### LINK PARA O VÍDEO DE APRESENTAÇÃO DO TRABALHO:
 
@@ -28,4 +29,4 @@ GRUPO:  Isabelly  Araújo  Temoteo, João  Pedro  Martins  Cruz,  Júlia  Dos  S
 
 ###  DOCUMENTO DE TEXTO, CONTENDO A LOCALIZAÇÃO, NO CÓDIGO FONTE, ONDE FORAM IMPLEMENTADOS OS CONTEÚDOS LISTADOS NO TÓPICO 3, ALÉM DE UM EXEMPLO DESTE CONTEÚDO:      
 
----> Anexado em add files para upload
+---> Anexado abaixo do arquivo  main_do_trabalho_de_llpa.c
