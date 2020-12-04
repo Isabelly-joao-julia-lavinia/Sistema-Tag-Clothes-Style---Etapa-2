@@ -22,7 +22,7 @@ GRUPO:  Isabelly  Araújo  Temoteo, João  Pedro  Martins  Cruz,  Júlia  Dos  S
 
 ---> 
 
-## LINK PARA O VÍDEO DE APRESENTAÇÃO DO TRABALHO:
+## LINK PARA O VÍDEO DE APRESENTAÇÃO DO TRABALHO: 
 
 --->
 
