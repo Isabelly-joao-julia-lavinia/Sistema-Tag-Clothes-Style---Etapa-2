@@ -12,7 +12,9 @@ VALOR: 15 pontos
 
 GRUPO:  Isabelly  Araújo  Temoteo, João  Pedro  Martins  Cruz,  Júlia  Dos  Santos  Silva e  Lavínia  Rievert Ramos.
 
-##  ATUALIZAÇÕES FEITAS NO PROGRAMA
+##  ATUALIZAÇÕES FEITAS NO PROGRAMA 
+
+<STATUS DO  PROGRAMA - ETAPA 2 >
 
 
 
