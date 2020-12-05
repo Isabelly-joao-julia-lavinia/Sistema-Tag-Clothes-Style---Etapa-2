@@ -29,4 +29,4 @@ que podem ser percebidos ao longo do código do programa, disponibilizado, logo 
 
 ###  DOCUMENTO DE TEXTO, CONTENDO A LOCALIZAÇÃO, NO CÓDIGO FONTE, ONDE FORAM IMPLEMENTADOS OS CONTEÚDOS LISTADOS NO TÓPICO 3, ALÉM DE UM EXEMPLO DESTE CONTEÚDO:      
 
----> Anexado abaixo do arquivo  main_do_trabalho_de_llpa.c
+---> Anexado acima do arquivo Readme.md.
